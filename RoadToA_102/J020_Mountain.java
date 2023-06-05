@@ -6,7 +6,7 @@ public class J020_Mountain {
         int x = sc.nextInt();
         int y = sc.nextInt();
 
-        
+        System.out.println("*");
         sc.close();
     }
 }
